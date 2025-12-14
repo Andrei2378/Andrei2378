@@ -59,9 +59,9 @@
 
 <br>
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=andrei18cocian&theme=radical&hide_border=false" width = 500>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=Andrei2378&theme=radical&hide_border=false" width = 500>
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=andrei18cocian&show_icons=true&theme=radical&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Andrei2378&show_icons=true&theme=radical&include_all_commits=true" />
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=andrei18cocian&layout=compact&theme=radical&langs_count=6)](https://github.com/andrei18cocian/github-readme-stats)
